@@ -1,0 +1,2 @@
+function h = computeAngularMomentum(rp, ra, mu)
+h = sqrt(2 * mu) * sq

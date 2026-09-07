@@ -1,0 +1,5 @@
+%% Function to get planet mu values
+function mu = getPlanetMu(planet)
+switch lower(planet)
+    case 'mercury'
+        mu = 22030;
